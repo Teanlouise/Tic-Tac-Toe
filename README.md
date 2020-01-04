@@ -1,4 +1,6 @@
-![tic_tac_toe](https://user-images.githubusercontent.com/19520346/71760513-a43f1f00-2f0a-11ea-907e-323e156e2154.PNG)
+[Back to Home](https://teanlouise.github.io)
+
+![tic_tac_toe_title](https://user-images.githubusercontent.com/19520346/71760513-a43f1f00-2f0a-11ea-907e-323e156e2154.PNG)
 
 A simple tic-tac-toe game. This was completed as the milestone 1 project for Jose Portilla's "Zero-to-Hero Python" course. 
 
