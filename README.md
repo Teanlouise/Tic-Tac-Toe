@@ -11,5 +11,5 @@ A simple tic-tac-toe game. This was completed as the milestone 1 project for Jos
 4. Continue until a player wins or the board is full and there is a tie.
 5. Ask players if they want to play again.
 
-![ttt_1](tic_tac_toe_ouput_1.PNG)
-![ttt_2](tic_tac_toe_ouput_2.PNG)
+![ttt_1](tic_tac_toe_ouput_1.png)
+![ttt_2](tic_tac_toe_ouput_2.png)
